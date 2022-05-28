@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sosial_medias",
+  "info": {
+    "singularName": "sosial-media",
+    "pluralName": "sosial-medias",
+    "displayName": "Sosial Media"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
